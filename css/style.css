@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "PT_Sans";
+  src: url("../fonts/PT_Sans-Web-Regular.ttf");
+}
+
+#logo {
+  height: 100px;
+}
+.nav-item {
+  font-size: 15px;
+}
+.nav-link.active {
+  border-bottom: #fff 1px solid;
+}
+.navbar-brand {
+  font-size: 18px;
+}
+.bg-paypal {
+  background-color: darkblue;
+}
+
+#Salutation .fa-user-plus {
+  font-size: 70px;
+  border-radius: 100%;
+  padding: 10px 10px;
+  border: 1px solid darkblue;
+}
+#Salutation .btn-rounded {
+  border-radius: 15%;
+  padding: 10px 10px;
+}
+
+#Transaction .fa-plus {
+  font-size: 10px;
+  border-radius: 100%;
+  padding: 5px 5px;
+  border: 1px solid blue;
+  background-color: blue;
+}
+#Footer .footer {
+  border-bottom: 1px dotted black;
+}
+#Footer .copy {
+  border-right: 1px solid black;
+  padding-right: 5px;
+}
+#Body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Salutation .btn-rounded:hover {
+  background: #fff;
+}
